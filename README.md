@@ -1,4 +1,4 @@
-# 🌌 Cadastro Pessoal — Space Glassmorphism App
+# 🌌 Cadastro Pessoal — Space Glassmorphism App com LOCALSTORAGE
 
 Um sistema de cadastro pessoal web com design moderno em estilo **Glassmorphism** (efeito de vidro translúcido) e tema espacial. Permite o cadastramento de informações de usuários com pré-visualização de foto de perfil em tempo real e persistência de dados no navegador através do `localStorage`.
 
