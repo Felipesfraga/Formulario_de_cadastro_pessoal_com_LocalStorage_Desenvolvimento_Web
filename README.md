@@ -65,4 +65,5 @@ Um sistema de cadastro pessoal web com design moderno em estilo **Glassmorphism*
 
 ---
 
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario) 🚀
+Desenvolvido por [FELIPE DOS SANTOS FRAGA](https://github.com/Felipesfraga/) 🚀
+[[Link do meu Linkedin](https://www.linkedin.com/in/felipesfraga/)]
