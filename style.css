@@ -1,0 +1,140 @@
+* {
+
+    box-sizing: border-box;
+
+}
+
+body {
+    background-image: url("branco.jpg");
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 30px;
+
+}
+
+.container {
+
+    max-width: 650px;
+    margin: auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 15px;
+    text-align: center;
+
+}
+
+h1, h2 {
+
+    text-align: center;
+    color: #333;
+
+}
+
+.area-foto {
+
+    text-align: center;
+    margin-bottom: 15px;
+
+}
+
+.foto {
+
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 5px solid black;
+    box-shadow: 0 0 12px gray;
+    display: none;
+    transition: transform 0.5s;
+
+}
+
+.foto:hover {
+
+    transform: scale(1.1);
+
+}
+
+label {
+
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-weight: bold;
+
+}
+
+input {
+    
+    width: 100%;
+    padding: 12px;
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+    font-size: 16px;
+    
+}
+
+input[type="file"] {
+
+    border: none;
+
+}
+
+button {
+
+    padding: 12px 20px;
+    margin-top: 20px;
+    margin-right: 5px;
+    border: none;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+
+button:hover {
+
+    background-color: #0000008d;
+
+}
+
+#mensagem {
+
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: 18px;
+    color: green;
+
+}
+
+/* Cadastro exibido */
+.cadastro {
+
+    background-color: #f5f5f5;
+    margin-top: 15px;
+    padding: 15px;
+    border-radius: 10px;
+    border-left: 5px solid #333;
+}
+
+.cadastro img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.cadastro button {
+
+    background-color: #900;
+    margin-top: 10px;
+    
+}
