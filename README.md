@@ -4,7 +4,7 @@ Um sistema de cadastro pessoal web com design moderno em estilo **Glassmorphism*
 
 ---
 ## 🔗 Demonstração
-[[Link da página online](https://felipesfraga.github.io/Formulario_de_cadastro_pessoal_com_LocalStorage_Desenvolvimento_Web/)
+[Link da página online](https://felipesfraga.github.io/Formulario_de_cadastro_pessoal_com_LocalStorage_Desenvolvimento_Web/)
 
 ## 🛠️ Tecnologias Utilizadas
 
